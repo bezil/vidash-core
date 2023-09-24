@@ -1,3 +1,5 @@
+Thumbnail Generator
+
 #In your HTML file
 <!-- <script type="module">
     import * as myLib from './my_lib.js';
